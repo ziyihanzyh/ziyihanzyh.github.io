@@ -66,7 +66,7 @@ strong{
     transition: all .5s;
 }
 #nav.not_index_bg {
-    height: 10rem;
+    height: 20rem;
 }
 #nav {
     position: relative;
@@ -79,7 +79,7 @@ strong{
 }
 #page_site-info {
     position: absolute;
-    top: 5rem;
+    top: 10rem;
     width: 100%;
 }
 #site-title {
